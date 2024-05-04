@@ -1,0 +1,50 @@
+
+- name: heuc-dh400
+  slug: heuc-dh400
+  color: ff0000
+  description: HEUC DH400 Site Tag
+
+- name: heuc-dh400-cc
+  slug: heuc-dh400-cc
+  color: 3366ff
+  description: HEUC DH400 Contact Center Related Items
+
+- name: heuc-dh400-core
+  slug: heuc-dh400-core
+  color: 0000ff
+  description: HEUC DH400 Core Related Items
+
+- name: heuc-dh400-infra
+  slug: heuc-dh400-infra
+  color: 0000ff
+  description: HEUC DH400 Infrastructure Related Items
+
+- name: heuc-dh400-mds
+  slug: heuc-dh400-mds
+  color: 00cc99
+  description: HEUC DH400 MDS Related Items
+
+- name: heuc-dh400-nsxt
+  slug: heuc-dh400-nsxt
+  color: 00cc00
+  description: HEUC DH400 NSX-T Related Items
+
+- name: heuc-dh400-oob
+  slug: heuc-dh400-oob
+  color: ff0000
+  description: HEUC DH400 OOB Management Related Items
+
+- name: heuc-dh400-sbc
+  slug: heuc-dh400-sbc
+  color: 9c27b0
+  description: HEUC DH400 SBC Related Items
+
+- name: heuc-dh400-ucs
+  slug: heuc-dh400-ucs
+  color: 03a9f4
+  description: HEUC DH400 UCS Related Items
+
+- name: heuc-dh400-customer
+  slug: heuc-dh400-customer
+  color: 9e9e9e
+  description: HEUC DH400 Customer Related Items
